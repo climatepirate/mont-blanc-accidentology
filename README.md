@@ -12,7 +12,7 @@ _Data Analysis:_
 ![Mont Blanc monthly temperature heatmap](mont_heat_map.png)
 
 _Html Webpage:_
-![Html Webpage Screenshot](html output screenshot.png)
+![Html Webpage Screenshot](html_output_screenshot.png)
 
 ## Project Summary
 
