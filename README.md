@@ -6,6 +6,10 @@ The project website is available here:
 
 https://climatepirate.github.io/mont-blanc-accidentology/
 
+## Example output
+
+![Mont Blanc monthly temperature heatmap](mont_heat_map.png)
+
 ## Project summary
 
 This project combines climate data analysis, geospatial processing, visual communication, and interactive web design to examine how changing temperature conditions may relate to mountain hazard patterns in the Mont Blanc region.
