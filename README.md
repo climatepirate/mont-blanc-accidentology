@@ -25,7 +25,7 @@ The final website presents the project narrative, visual outputs, and supporting
 - `index.html` — rendered project website
 - `index.qmd` — Quarto source file for the website
 - `Inserts/` — images, videos, and visual assets used in the website
-- `code/` — cleaned analysis notebooks used to create selected project outputs
+- `code/` — cleaned analysis python notebooks used to create selected project outputs
 - `references.bib` — bibliography file for the Quarto project
 - `stylesheet.scss` and `Bluebox.scss` — styling files
 
