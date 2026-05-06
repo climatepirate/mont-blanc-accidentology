@@ -8,10 +8,10 @@ https://climatepirate.github.io/mont-blanc-accidentology/
 
 ## Example Outputs
 
-<Data Analysis:>
+_Data Analysis:_
 ![Mont Blanc monthly temperature heatmap](mont_heat_map.png)
 
-<Html Webpage:>
+_Html Webpage:_
 ![Html Webpage Screenshot](html output screenshot.png)
 
 ## Project Summary
