@@ -1,0 +1,13 @@
+.bluebox {
+  background-color: #7aa2c2;  /* adjust to match sea color */
+  color: white;               /* text color for contrast */
+  padding: 1rem;
+  border-radius: 8px;         /* optional soft corners */
+  height: 100%;               /* ensures full column fill */
+}
+
+/* Make sure inner text isn't too close to edge */
+.bluebox p, .bluebox h3, .bluebox strong {
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
