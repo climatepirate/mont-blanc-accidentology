@@ -6,17 +6,17 @@ The project website is available here:
 
 https://climatepirate.github.io/mont-blanc-accidentology/
 
-## Example output
+## Example Output
 
 ![Mont Blanc monthly temperature heatmap](mont_heat_map.png)
 
-## Project summary
+## Project Summary
 
 This project combines climate data analysis, geospatial processing, visual communication, and interactive web design to examine how changing temperature conditions may relate to mountain hazard patterns in the Mont Blanc region.
 
 The final website presents the project narrative, visual outputs, and supporting interpretation.
 
-## Repository structure
+## Repository Structure
 
 - `index.html` — rendered project website
 - `index.qmd` — Quarto source file for the website
@@ -25,7 +25,7 @@ The final website presents the project narrative, visual outputs, and supporting
 - `references.bib` — bibliography file for the Quarto project
 - `stylesheet.scss` and `Bluebox.scss` — styling files
 
-## Analysis notebooks
+## Analysis Notebooks
 
 The `code/` folder contains cleaned notebooks for:
 
@@ -35,7 +35,7 @@ The `code/` folder contains cleaned notebooks for:
 
 Large raw climate datasets and derived raster outputs are not included because of file size constraints.
 
-## Skills demonstrated
+## Skills Demonstrated
 
 - Python climate data analysis
 - NetCDF handling with `xarray`
