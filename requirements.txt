@@ -1,0 +1,9 @@
+xarray
+rioxarray
+rasterio
+numpy
+pandas
+matplotlib
+h5py
+netcdf4
+jupyter
