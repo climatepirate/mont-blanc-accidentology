@@ -6,9 +6,13 @@ The project website is available here:
 
 https://climatepirate.github.io/mont-blanc-accidentology/
 
-## Example Output
+## Example Outputs
 
+###Data Analysis:
 ![Mont Blanc monthly temperature heatmap](mont_heat_map.png)
+
+###Html Webpage:
+![Html Webpage Screenshot](html output screenshot.png)
 
 ## Project Summary
 
